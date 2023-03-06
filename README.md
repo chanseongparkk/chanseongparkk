@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20My%20World&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Welcome&desc=Chanseongs%20Github%20World&fontSize=70)
 
 ### Hi there 👋
 
