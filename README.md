@@ -33,7 +33,7 @@
 <br>
 
 <h3 align="center">🏡 My Repositories 🏡</h3>
-<p align="center">
-  2022_Data_Analysis_Intern_project: 2022 데이터분석 청년수련생 프로그램에서 진행한 프로젝트를 기록합니다.<br>
-  In_University_project : 대학 수업에서 진행한 small project를 기록합니다.<br>
-  BigDataAnalyst_practise : 3회차 빅데이터 분석기사 실기를 준비했던 코드를 기록합니다.
+  
+  #2022_Data_Analysis_Intern_project: 2022 데이터분석 청년수련생 프로그램에서 진행한 프로젝트를 기록합니다.<br>
+  #In_University_project : 대학 수업에서 진행한 small project를 기록합니다.<br>
+  #BigDataAnalyst_practise : 3회차 빅데이터 분석기사 실기를 준비했던 코드를 기록합니다.
