@@ -17,16 +17,16 @@
 <h3 align="center">📚 Languages 📚</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 
 <br>
 
 <h3 align="center">🛠️ Data Science 🛠️</h3>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/NumPy-#013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/pandas-#150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp<br>
-  <img src="https://img.shields.io/badge/SciPy-#8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/scikit-learn-#F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp<br>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   
