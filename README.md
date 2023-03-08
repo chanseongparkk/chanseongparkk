@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">🛠️ Data Science 🛠️</h3>
+<h3 align="center">☀ Data Science ☀</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp<br>
