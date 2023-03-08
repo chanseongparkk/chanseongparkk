@@ -33,7 +33,6 @@
 <br>
 
 <h3 align="center">🏡 My Repositories 🏡</h3>
-<p align="center"> 
   **2022_Data_Analysis_Intern_project** : 2022 데이터분석 청년수련생 프로그램에서 진행한 프로젝트를 기록합니다.
   * 서울시 LED 바닥형 보행신호등 최적입지 선정
   * 김포공항 항공화물 수요예측 모델링
