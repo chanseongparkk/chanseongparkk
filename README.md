@@ -38,7 +38,7 @@
   In_University_project : 대학 수업에서 진행한 small project를 기록합니다.<br>
   BigDataAnalyst_practise : 3회차 빅데이터 분석기사 실기를 준비했던 코드를 기록합니다.
   
-<br>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanseongparkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
