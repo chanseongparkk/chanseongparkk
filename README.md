@@ -7,13 +7,13 @@
   관심있는 분야의 새로운 지식을 배우는 것에 흥미를 가지고 있습니다.<br><br>
   <a href="https://www.notion.so/Chanseong-s-Portfolio-9a407046dd414d2b8a862a758d9c1b0f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-<br><br>
+<br>
   
 <h3 align="center">✉ Contact ✉</h3>
 <p align="center">
   shoutkorea1@naver.com
 
-<br><br>
+<br>
 
 <h3 align="center">📚 Languages 📚</h3>
 <p align="center"> 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 
-<br><br>
+<br>
 
 <h3 align="center">☀ Data Science ☀</h3>
 <p align="center"> 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   
-<br><br>
+<br>
 
 <h3 align="center">🏡 My Repositories 🏡</h3>  
 <p align="center">
@@ -41,7 +41,7 @@
   BigDataAnalyst_practise : 3회차 빅데이터 분석기사 실기를 준비했던 코드를 기록합니다.
   
   
-<br/><br/>
+<br/>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
