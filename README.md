@@ -5,7 +5,7 @@
   안녕하세요! 반갑습니다!<br>
   데이터를 기반으로 세상을 바라보는 주니어 데이터분석가 박찬성입니다!<br>
   관심있는 분야의 새로운 지식을 배우는 것에 흥미를 가지고 있습니다.<br><br>
-  My Portfolio : <a href="https://www.notion.so/Chanseong-s-Portfolio-9a407046dd414d2b8a862a758d9c1b0f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/Chanseong-s-Portfolio-9a407046dd414d2b8a862a758d9c1b0f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br>
   
