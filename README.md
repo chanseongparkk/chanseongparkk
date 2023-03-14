@@ -39,7 +39,7 @@
   2022_Data_Analysis_Intern_practice : 2022 데이터분석 청년수련생 프로그램에서 진행한 실습을 기록합니다.<br>
   2022_CyberSecurity_AI_Challenge : 2022 사이버보안 빅데이터 AI 챌린지에 참여했던 자료를 기록합니다.<br>
   In_University_project : 대학 수업에서 진행한 small project를 기록합니다.<br>
-  BigDataAnalyst_practise : 3회차 빅데이터 분석기사 실기를 준비했던 코드를 기록합니다.
+  BigDataAnalyst_practice : 3회차 빅데이터 분석기사 실기를 준비했던 코드를 기록합니다.
   
   
 <br/>
